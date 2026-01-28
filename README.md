@@ -67,7 +67,7 @@ This portfolio highlights my latest projects, design approach, and professional 
 ---
 
 ## 📬 Contact
-**Portfolio:** [https://vineetgfx.vercel.app  ](https://vineeteditor.vercel.app/)
+**Portfolio:** https://vineetgfx.vercel.app
 **LinkedIn:** https://linkedin.com/in/vineetgfx  
 **Instagram:** https://instagram.com/boostcreatives  
 
